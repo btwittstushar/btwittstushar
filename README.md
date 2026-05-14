@@ -40,7 +40,7 @@ Portfolio repository: https://github.com/btwittstushar/tushar-portfolio
 
 ## Contact
 
-- Email: tusharvijay24@gmail.com
+- Email: tushar.vijayvargiya2@gmail.com
 - GitHub: https://github.com/btwittstushar
 - LinkedIn: https://linkedin.com/in/tushar-vijayvargiya
 - Portfolio: https://tusharvijayvargiya.com
