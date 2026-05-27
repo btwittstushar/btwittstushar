@@ -7,7 +7,7 @@ I work across native iOS development, app architecture, API integrations, Fireba
 ## Portfolio
 
 Live portfolio: https://tusharvijayvargiya.com  
-Portfolio repository: https://github.com/btwittstushar/tushar-portfolio
+Portfolio repository: https://github.com/tusharvijay24/tushar-portfolio
 
 ## Current Focus
 
